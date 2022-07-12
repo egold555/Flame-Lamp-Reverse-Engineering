@@ -1,5 +1,4 @@
-# Dancing Flame Lamp Reverse Enginering
-**This is still a WIP document**
+# Dancing Flame Lamp Reverse Engineering
 
 
 Product: https://www.amazon.com/gp/product/B07Z4TDPDP/ref=ox_sc_act_title_1?smid=A1CDFPK1SDU9TK&psc=1
