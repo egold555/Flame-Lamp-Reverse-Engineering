@@ -1,6 +1,9 @@
 #ifndef EG_IR_FlameLantern
 #define EG_IR_FlameLantern
 
+#define FLAME_LANTERN_SETTINGS_NUM_BITS 32
+#define FLAME_LANTERN_SETTINGS_KHZ 34
+
 #define FLAME_LANTERN_OFF 0xFFA25D
 #define FLAME_LANTERN_ON 0xFFE21D
 
